@@ -1,0 +1,14 @@
+export interface CheckstyleReport {
+    files: FileReport[];
+}
+export interface FileReport {
+    name: string;
+    errors: Error[];
+}
+export declare type Severity = "error" | "info";
+export interface Error {
+    line: number;
+    severity: Severity;
+    message: string;
+    source: string;
+}

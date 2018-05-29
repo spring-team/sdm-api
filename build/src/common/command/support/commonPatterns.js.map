@@ -1,0 +1,1 @@
+{"version":3,"file":"commonPatterns.js","sourceRoot":"","sources":["../../../../../src/common/command/support/commonPatterns.ts"],"names":[],"mappings":";AAAA;;;;;;;;;;;;;;GAcG;;AAIH;;;GAGG;AACU,QAAA,YAAY,GAA2B;IAChD,WAAW,EAAE,SAAS;IACtB,WAAW,EAAE,sDAAsD;IACnE,2CAA2C;IAC3C,OAAO,EAAE,iLAAiL;IAC1L,UAAU,EAAE,6CAA6C;IACzD,SAAS,EAAE,CAAC;IACZ,SAAS,EAAE,EAAE;CAChB,CAAC"}
